@@ -37,7 +37,7 @@ def insulin_category(insulin):
         return 'Other'
 
 # Streamlit app title
-st.title("Diabetes Prediction app - by Nagavalli Ramisetty")
+st.title("Diabetes Prediction app - by Srineha Mukku")
 st.subheader("Predict the likelihood of diabetes based on health metrics")
 st.markdown("**Take control of your health today!** Use this tool to determine your diabetes risk based on various health indicators.")
 
